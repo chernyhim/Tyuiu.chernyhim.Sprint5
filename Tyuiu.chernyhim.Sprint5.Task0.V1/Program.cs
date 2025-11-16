@@ -9,7 +9,7 @@ namespace Tyuiu.chernyhim.Sprint5.Task0.V1
             int x = 5;
             Console.WriteLine("x = "+x);
             string res = ds.SaveToFileTextData(x);
-            Console.WriteLine("File:" + res);
+            Console.WriteLine("File:" + res); 
             Console.WriteLine("Created"); 
         } 
     }
